@@ -1,0 +1,9 @@
+.svn/
+*.vssscc
+*.vspscc
+bin/
+obj/
+_ReSharper.*/
+*.user
+*.suo
+
